@@ -1,0 +1,24 @@
+{
+"product":[
+  {"id":1,"name":"Malachite kingfisher","category":"Yellow"},
+  {"id":2,"name":"Red-billed toucan","category":"Green"},
+  {"id":3,"name":"African lion","category":"Turquoise"},
+  {"id":4,"name":"Land iguana","category":"Maroon"},
+  {"id":5,"name":"Pygmy possum","category":"Puce"},
+  {"id":6,"name":"Purple grenadier","category":"Puce"},
+  {"id":7,"name":"Sea birds (unidentified)","category":"Pink"},
+  {"id":8,"name":"Antelope, roan","category":"Puce"},
+  {"id":9,"name":"Monitor, two-banded","category":"Khaki"},
+  {"id":10,"name":"African buffalo","category":"Purple"},
+  {"id":11,"name":"Wolf, timber","category":"Indigo"},
+  {"id":12,"name":"Swan, trumpeter","category":"Indigo"},
+  {"id":13,"name":"Giant armadillo","category":"Violet"},
+  {"id":14,"name":"Gila monster","category":"Indigo"},
+  {"id":15,"name":"Killer whale","category":"Orange"},
+  {"id":16,"name":"Gazelle, thomson's","category":"Maroon"},
+  {"id":17,"name":"Japanese macaque","category":"Fuscia"},
+  {"id":18,"name":"Langur, common","category":"Maroon"},
+  {"id":19,"name":"Horned rattlesnake","category":"Puce"},
+  {"id":20,"name":"Ocelot","category":"Blue"}
+]
+}
